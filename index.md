@@ -1,5 +1,5 @@
 <h1>Support<h1>
-<p>Wenden sie sich an den Entwickeler.<p>
+<p>Wenden sie sich an den Entwickeler.</p>
 
 <h1>Datenschutzerklärung</h1>
 <h2>Einleitung</h2>
