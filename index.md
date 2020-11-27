@@ -1,4 +1,3 @@
-<h1>Support<h1>
 
 <h1>Datenschutzerklärung</h1>
 <h2>Einleitung</h2>
